@@ -21,4 +21,8 @@ A more versatile option is to set up an Ethereum development network on your loc
 * Check the smart contract state (inspect the public variables)
 * Invoke the smart contract operations
 
+[Obtain Geth](URL "http://geth.ethereum.org/downloads/")
+
+[Obtain Mist](URL "http://github.com/ethereum/mist/releases") 
+
 More detailed info about how to set up an ethereum local development network can be found [here](URL "https://gist.github.com/evertonfraga/9d65a9f3ea399ac138b3e40641accf23") 
